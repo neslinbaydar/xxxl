@@ -13,10 +13,10 @@
 ```terminal
 //open the project in code editor
 //then run the following command
- **Demo [here](https://xxxl.vercel.app/)** 🚀
 
 
 npm install
 
 npm run start
 ```
+ **Demo [here](https://xxxl.vercel.app/)** 🚀
