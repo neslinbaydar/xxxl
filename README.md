@@ -13,7 +13,7 @@
 ```terminal
 //open the project in code editor
 //then run the following command
-//You can check it out via deployment link : ``https://xxxl.vercel.app/``
+//You can check it out via deployment link : ```https://xxxl.vercel.app/```
 npm install
 
 npm run start
