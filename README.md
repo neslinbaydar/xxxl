@@ -13,7 +13,8 @@
 ```terminal
 //open the project in code editor
 //then run the following command
-//check the demo => https://xxxl.vercel.app/
+ **Demo [here](https://xxxl.vercel.app/)** 🚀
+
 
 npm install
 
